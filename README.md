@@ -3,6 +3,8 @@ Public version of my Ice Slide app with private keys removed
 
 Hi! This is the primary source code for my app "Ice Slide" 
 
+found here:  https://play.google.com/store/apps/details?id=com.andrew.game
+
 Here is what's in each folder
 
 Currency: finite state machine to manage the in game currency
